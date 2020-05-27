@@ -1,0 +1,4 @@
+#menu{ list-style: none; padding : 0; margin : 0;}
+.list{ float : right; padding : 7px; font-size : 17px; font-weight : bold;}
+.list a{ display : block; color : rgb(62, 9, 75); text-decoration : none;};
+.list a:hover{ color : rgb(152, 113, 179); }
